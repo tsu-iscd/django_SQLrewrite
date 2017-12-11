@@ -1,10 +1,10 @@
 django_SQLrewrite
 =================
 
-##Required modules:
+## Required modules:
 * sqlparse
 
-##Configuration:
+## Configuration:
 1. Add middleware to the last postition to the **MIDDLEWARE_CLASSES** list in settings.py.
 2. Add the following list to settings.py:
 ```python
